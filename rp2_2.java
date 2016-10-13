@@ -20,6 +20,6 @@ class rp2_2{
 		output_degree = (input_degree - 32) / 1.8;
 		System.out.println("변환된 온도는 "+output_degree+" 입니다.");
 	}
-	}
+}
 }
 
